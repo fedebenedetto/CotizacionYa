@@ -1,0 +1,6 @@
+C:\Users\aye_2\source\repos\CotizacionYa\DataAcces\bin\Debug\netstandard2.0\DataAcces.deps.json
+C:\Users\aye_2\source\repos\CotizacionYa\DataAcces\bin\Debug\netstandard2.0\DataAcces.dll
+C:\Users\aye_2\source\repos\CotizacionYa\DataAcces\obj\Debug\netstandard2.0\DataAcces.csprojAssemblyReference.cache
+C:\Users\aye_2\source\repos\CotizacionYa\DataAcces\obj\Debug\netstandard2.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\aye_2\source\repos\CotizacionYa\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\aye_2\source\repos\CotizacionYa\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfo.cs
